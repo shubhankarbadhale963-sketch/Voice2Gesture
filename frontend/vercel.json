@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/upload_video/",
+      "destination": "https://voice2gesture.onrender.com/upload_video/"
+    },
+    {
+      "source": "/translate_text/",
+      "destination": "https://voice2gesture.onrender.com/translate_text/"
+    },
+    {
+      "source": "/media/:path*",
+      "destination": "https://voice2gesture.onrender.com/media/:path*"
+    }
+  ]
+}
