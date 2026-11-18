@@ -54,7 +54,7 @@ srt==3.5.3
 tensorboard==2.17.0
 tensorboard-data-server==0.7.2
 tensorflow==2.17.0
-tensorflow-intel==2.17.0
+gunicorn
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.4.0
 tqdm==4.66.4
